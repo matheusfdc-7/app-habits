@@ -24,6 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os Seus hábitos.
 
+- [Visite o projeto online](matheusfdc-7.github.io/app-habits)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
